@@ -1,0 +1,3 @@
+[Original file](https://github.com/blue-ice/public-3D-models/blob/72515b8d70e90932da073cdc8fcf7c29cb7d3631/screen-door-handle/3D-files/screen-door-handle.fcstd) created with [FreeCAD](http://www.freecadweb.org/).
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
